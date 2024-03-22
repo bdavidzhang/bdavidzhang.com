@@ -1,5 +1,5 @@
 body {
-    background-color:#efe6df;
+    background-color:#faf2dc;
     font-family: fantasy;
     
     text-align: center;
@@ -50,9 +50,9 @@ a:link{
     color: #d7bd76;
 }
 a:visited{
-    color: #d7bd76;
+    color: #bbbfbf;
 }
 
 a:hover{
-    color:deeppink
+    color:#f1ac44;
 }
